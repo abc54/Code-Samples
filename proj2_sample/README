@@ -1,0 +1,51 @@
+Project 1: The CS61B Drawing System.
+
+The files in this directory form a very sketchy skeleton that you are
+to flesh out into a full system.
+
+
+Files:
+
+
+Makefile:      This simple Makefile does standard tasks such
+               as building the application, cleaning up unneeded files, and
+               running the JUnit tests.  Used as a configuration file 
+               by the 'gmake' program.
+
+PUBLIC-VERSION:
+               A file containing just the name of the current public release
+               version in the public/proj1/tags directory.  (Helpful when
+               trying to figure out what merges to do.)
+
+duo (subdirectory):  The package containing the game program.
+
+    Makefile:  See Makefile, above.
+
+    Main.java: Contains the main method for the system.
+
+    Testing.java: 
+               The main program here runs all your JUnit tests.  Your tests
+               may be scattered over many classes, but this is a kind of
+               central index of all of them, and has a few useful methods 
+               for use in some tests.
+
+    Board.java, MutableBoard.java, Color.java, Player.java, 
+    Human.java, AI.java:
+               SAMPLE source files, hinting at part of ONE POSSIBLE
+               implementation (object analysis) of the system.
+
+    UI.java
+               An interface representing a user interface.  By going through
+	       an interface, we make it easier (in later assignments) to
+	       convert from text I/O to graphical I/O.
+    TextUI.java
+               An implementation of UI.java intended that uses the terminal
+	       for input and output.
+
+duo-tests (subdirectory): 
+               Directory of test files. Used by gmake check.
+
+~cs61b/bin/test-duo:
+               Script to run regression tests against the complete duo 
+               program.  The tests in duo-tests specify the tests that this
+               script runs.  Used by gmake check.
