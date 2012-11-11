@@ -1,0 +1,8 @@
+Website Permissions
+
+how to set up a personal web page in inst.eecs.berkeley.edu
+- make public_html folder
+- put files like index.html in it
+- chmod 711 ~cs##-##
+- chmod 711 public_html
+- chmod 755 public_html/index.html

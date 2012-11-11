@@ -1,0 +1,105 @@
+Script started on Mon Sep 10 12:21:56 2012
+[1m[7m%[27m[1m[0m                                                                                                     ]2;ZackMayeda@Zacks-MacBook-Pro: ~/Documents/Files/School/3rd_Year/Fall_12/CS9H/proj2b]1;..2/CS9H/proj2b[0m[27m[24m[J[01;31m➜ [01;32m [36mproj2b [01;34m[01;34m [00m[Kppython project2b.py
+]2;python project2b.py]1;pythonWelcome to Zack's Cast List Mini App!
+What movie or tv show would you like the cast list for? arrested development
+Found a listing for Arrested Development. Is that correct? [yes / no]  yes
+Found IMDB page for: Arrested Development. Looking up cast list now.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The cast of Arrested Development:
+Actor/Actress (character)
+---------------------------------
+
+Jason Bateman (Michael Bluth)
+Portia de Rossi (Lindsay Bluth Fünke)
+Michael Cera (George-Michael Bluth)
+David Cross (Tobias Fünke)
+Ron Howard (Narrator(54 episodes, 2003-2006))
+Will Arnett (Gob Bluth)
+Alia Shawkat (Maeby Fünke)
+Tony Hale (Buster Bluth)
+Jeffrey Tambor (George Bluth Sr.)
+Jessica Walter (Lucille Bluth)
+Would you like to search again? [yes / no]  yes
+What movie or tv show would you like the cast list for? nemo
+Found a listing for Finding Nemo. Is that correct? [yes / no]  yes
+Found IMDB page for: Finding Nemo. Looking up cast list now.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+The cast of Finding Nemo:
+Actor/Actress (character)
+-------------------------
+
+Albert Brooks (Marlin)
+Ellen DeGeneres (Dory)
+Alexander Gould (Nemo)
+Willem Dafoe (Gill)
+Brad Garrett (Bloat)
+Allison Janney (Peach)
+Austin Pendleton (Gurgle)
+Stephen Root (Bubbles)
+Vicki Lewis (Deb)
+Joe Ranft (Jacques)
+Geoffrey Rush (Nigel)
+Andrew Stanton (Crush)
+Elizabeth Perkins (Coral)
+Nicholas Bird (Squirt)
+Bob Peterson (Mr. Ray)
+Would you like to search again? [yes / no]  incepton
+What movie or tv show would you like the cast list for? incepton
+Found a listing for Inception. Is that correct? [yes / no]  yes
+Found IMDB page for: Inception. Looking up cast list now.
+
+~~~~~~~~~~~~~~~~~~~~~~
+The cast of Inception:
+Actor/Actress (character)
+----------------------
+
+Leonardo DiCaprio (Cobb)
+Joseph Gordon-Levitt (Arthur)
+Ellen Page (Ariadne)
+Tom Hardy (Eames)
+Ken Watanabe (Saito)
+Dileep Rao (Yusuf)
+Cillian Murphy (Robert Fischer)
+Tom Berenger (Peter Browning)
+Marion Cotillard (Mal)
+Pete Postlethwaite (Maurice Fischer)
+Michael Caine (Miles)
+Lukas Haas (Nash)
+Tai-Li Lee (Tadashi)
+Claire Geare (Phillipa Cobb - 3 years)
+Magnus Nolan (James Cobb - 20 months)
+Would you like to search again? [yes / no]  no
+[1m[7m%[27m[1m[0m                                                                                                     ]2;ZackMayeda@Zacks-MacBook-Pro: ~/Documents/Files/School/3rd_Year/Fall_12/CS9H/proj2b]1;..2/CS9H/proj2b[0m[27m[24m[J[01;31m➜ [01;32m [36mproj2b [01;34m[01;34m [00m[Kpython project2b.py
+]2;python project2b.py]1;pythonWelcome to Zack's Cast List Mini App!
+What movie or tv show would you like the cast list for? l[K     
+Sorry, an error occurred. Please try again.
+What movie or tv show would you like the cast list for? 23
+Found a listing for The Number 23. Is that correct? [yes / no]  yes
+Found IMDB page for: The Number 23. Looking up cast list now.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+The cast of The Number 23:
+Actor/Actress (character)
+--------------------------
+
+Jim Carrey (Walter Sparrow)
+Virginia Madsen (Agatha Sparrow)
+Logan Lerman (Robin Sparrow)
+Danny Huston (Isaac French)
+Lynn Collins (Suicide Blonde)
+Rhona Mitra (Laura Tollins)
+Michelle Arthur (Sybil)
+Mark Pellegrino (Kyle Flinch)
+Paul Butcher (Young Fingerling)
+David Stifel (Hotel Clerk)
+Corey Stoll (Sergeant Burns)
+Ed Lauter (Father Sebastian)
+Troy Kotsur (Barnaby)
+Walter Soo Hoo (Chinese Restaurant Owner)
+Patricia Belcher (Dr. Alice Mortimer)
+Would you like to search again? [yes / no]  no
+[1m[7m%[27m[1m[0m                                                                                                     ]2;ZackMayeda@Zacks-MacBook-Pro: ~/Documents/Files/School/3rd_Year/Fall_12/CS9H/proj2b]1;..2/CS9H/proj2b[0m[27m[24m[J[01;31m➜ [01;32m [36mproj2b [01;34m[01;34m [00m[Keexit
+]2;exit]1;exit
+Script done on Mon Sep 10 12:25:29 2012

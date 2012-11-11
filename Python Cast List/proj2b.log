@@ -1,0 +1,119 @@
+Script started on Sat Sep  8 17:13:37 2012
+[1m[7m%[27m[1m[0m                                                                                                                    ]2;ZackMayeda@Zacks-MacBook-Pro: ~/Desktop]1;~/Desktop[0m[27m[24m[J[01;31m➜ [01;32m [36mDesktop [01;34m[01;34m [00m[Kppython project2b.py 
+]2;python project2b.py]1;pythonWelcome to Zack's Cast List Mini App!
+What movie or tv show would you like the cast list for? arrese[Kted development
+Found a listing for Arrested Development. Is that correct? [yes / no]  yes
+Found IMDB page for: Arrested Development. Looking up cast list now.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The cast of Arrested Development:
+Actor/Actress (character)
+---------------------------------
+
+Jason Bateman (Michael Bluth)
+Portia de Rossi (Lindsay Bluth Fünke)
+Michael Cera (George-Michael Bluth)
+David Cross (Tobias Fünke)
+Ron Howard (Narrator(54 episodes, 2003-2006))
+Will Arnett (Gob Bluth)
+Alia Shawkat (Maeby Fünke)
+Tony Hale (Buster Bluth)
+Jeffrey Tambor (George Bluth Sr.)
+Jessica Walter (Lucille Bluth)
+Would you like to search again? [yes / no]  yes
+What movie or tv show would you like the cast list for? terminator
+Found a listing for The Terminator. Is that correct? [yes / no]  yes
+Found IMDB page for: The Terminator. Looking up cast list now.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+The cast of The Terminator:
+Actor/Actress (character)
+---------------------------
+
+Arnold Schwarzenegger (Terminator)
+Michael Biehn (Kyle Reese)
+Linda Hamilton (Sarah Connor)
+Paul Winfield (Lieutenant Ed Traxler)
+Lance Henriksen (Detective Hal Vukovich)
+Rick Rossovich (Matt Buchanan)
+Bess Motta (Ginger Ventura)
+Earl Boen (Dr. Peter Silberman)
+Dick Miller (Pawn Shop Clerk)
+Shawn Schepps (Nancy)
+Bruce M. Kerner (Desk Sergeant)
+Franco Columbu (Future Terminator)
+Bill Paxton (Punk Leader)
+Brad Rearden (Punk)
+Brian Thompson (Punk)
+Would you like to search again? [yes / no]  yes
+What movie or tv show would you like the cast list for? inceptin
+Found a listing for Inception. Is that correct? [yes / no]  yes
+Found IMDB page for: Inception. Looking up cast list now.
+
+~~~~~~~~~~~~~~~~~~~~~~
+The cast of Inception:
+Actor/Actress (character)
+----------------------
+
+Leonardo DiCaprio (Cobb)
+Joseph Gordon-Levitt (Arthur)
+Ellen Page (Ariadne)
+Tom Hardy (Eames)
+Ken Watanabe (Saito)
+Dileep Rao (Yusuf)
+Cillian Murphy (Robert Fischer)
+Tom Berenger (Peter Browning)
+Marion Cotillard (Mal)
+Pete Postlethwaite (Maurice Fischer)
+Michael Caine (Miles)
+Lukas Haas (Nash)
+Tai-Li Lee (Tadashi)
+Claire Geare (Phillipa Cobb - 3 years)
+Magnus Nolan (James Cobb - 20 months)
+Would you like to search again? [yes / no]  yes
+What movie or tv show would you like the cast list for?        
+Sorry, an error occurred. Please try again.
+What movie or tv show would you like the cast list for? aaaaaaaaaaaa
+Found a listing for . Is that correct? [yes / no]  no
+Ok, please try again. What movie or tv show would you like the cast list for? aaaaaa
+Found a listing for Aaaaaah. Is that correct? [yes / no]  yes
+Found IMDB page for: Aaaaaah. Looking up cast list now.
+
+~~~~~~~~~~~~~~~~~~~~
+The cast of Aaaaaah:
+Actor/Actress (character)
+--------------------
+
+
+
+
+ ()
+Would you like to search again? [yes / no]  yes
+What movie or tv show would you like the cast list for? nemo
+Found a listing for Finding Nemo. Is that correct? [yes / no]  yes
+Found IMDB page for: Finding Nemo. Looking up cast list now.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~
+The cast of Finding Nemo:
+Actor/Actress (character)
+-------------------------
+
+Albert Brooks (Marlin)
+Ellen DeGeneres (Dory)
+Alexander Gould (Nemo)
+Willem Dafoe (Gill)
+Brad Garrett (Bloat)
+Allison Janney (Peach)
+Austin Pendleton (Gurgle)
+Stephen Root (Bubbles)
+Vicki Lewis (Deb)
+Joe Ranft (Jacques)
+Geoffrey Rush (Nigel)
+Andrew Stanton (Crush)
+Elizabeth Perkins (Coral)
+Nicholas Bird (Squirt)
+Bob Peterson (Mr. Ray)
+Would you like to search again? [yes / no]  no
+[1m[7m%[27m[1m[0m                                                                                                                    ]2;ZackMayeda@Zacks-MacBook-Pro: ~/Desktop]1;~/Desktop[0m[27m[24m[J[01;31m➜ [01;32m [36mDesktop [01;34m[01;34m [00m[Keexit
+]2;exit]1;exit
+Script done on Sat Sep  8 17:14:58 2012
