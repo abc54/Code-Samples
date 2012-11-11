@@ -1,0 +1,5 @@
+A web programming project that I completed for a Python class.
+
+It is run from the command line and requires an internet connection.
+
+The program takes a movie or tv show title from the user and searches IMDB for a cast list, then displays it in a concise format. I didn't know that Python HTML parsers existed at the time I wrote the program, so the code is probably more complex than it should be.
